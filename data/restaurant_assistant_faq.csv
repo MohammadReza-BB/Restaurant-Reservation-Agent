@@ -1,0 +1,36 @@
+question,answer
+How do I make a reservation?,"You can make a reservation by providing the restaurant name, number of guests, reservation date, and your contact information."
+Can I reserve a table for today?,"Yes, reservations can be made for the same day if tables are available."
+How can I check if a restaurant has available seats?,"You can ask for availability by specifying the restaurant name, date, and number of guests."
+Can I reserve a table without a phone number?,No. A valid contact number is required to complete a reservation.
+Is there a fee for making a reservation?,No. Reservations are free unless the restaurant has a special deposit policy.
+How many guests can I include in a reservation?,The maximum number depends on the restaurant's available seating capacity and reservation policies.
+Can I modify my reservation after it has been confirmed?,Yes. Reservations can be modified if sufficient availability exists.
+How do I change the number of guests in my reservation?,Provide your reservation number and the updated number of guests.
+Can I change the reservation date?,"Yes, subject to availability at the restaurant."
+How do I cancel a reservation?,"Provide your reservation number, and the reservation can be cancelled."
+Will I receive a confirmation after booking?,"Yes. The system provides reservation details after a successful booking, and also shows a receipt image with the reservation QR code and restaurant info."
+What information is included in the reservation confirmation?,"The confirmation includes the reservation number, restaurant details, reservation date, and guest count."
+What happens if the restaurant is fully booked?,"The reservation request will be declined, and alternative restaurants may be suggested."
+How do I find restaurants near me?,"Ask for restaurants in a specific area, city, or district."
+Can I search for restaurants by cuisine?,"Yes. You can search by cuisine types such as Italian, Japanese, Persian, Chinese, and more."
+Can I search for highly rated restaurants?,Yes. You can filter restaurants by minimum rating.
+What cuisines are available?,Available cuisines depend on the restaurants stored in the system database.
+How can I view restaurant details?,Ask for information about a restaurant by name.
+What restaurant details can I view?,"You can view the address, cuisine type, contact number, opening hours, rating, and description."
+Can I view a restaurant's contact number?,"Yes. Restaurant contact information is available, if you provide the name of the restaurant you are looking for, I can give you its number."
+Can I view restaurant opening hours?,Yes. Opening hours are included in the restaurant details.
+What should I do if I entered the wrong phone number?,Modify your reservation and provide the correct contact number.
+Can I make a reservation for someone else?,"Yes, provided you supply their name and contact information."
+What happens if my group size exceeds available seating?,"The reservation will not be completed, and you will be informed of the available capacity."
+Can I reserve a table for one person?,"Yes, provided the restaurant accepts reservations for single guests."
+Is there a minimum number of guests required?,This depends on the restaurant's reservation policy.
+Can I search restaurants by location?,"Yes. You can search using city names, districts, or other supported locations."
+What does a restaurant rating represent?,Ratings indicate overall customer satisfaction on a scale from 0 to 5.
+Can restaurants reject reservations?,Yes. Reservations may be rejected if there is insufficient capacity or policy restrictions.
+Are reservations guaranteed?,Reservations are guaranteed only after successful confirmation by the system.
+How do I know if my reservation was successful?,"The system will return a status of ""successful"" along with reservation details."
+What does a failed reservation mean?,"It means the reservation could not be completed due to insufficient capacity, invalid input, or other constraints."
+What information do I need before making a reservation?,"You need the restaurant name, reservation date, guest count, customer name, and contact number."
+What happens to available seats after a reservation?,The restaurant's available seating capacity is reduced by the number of guests in the reservation.
+Can I search restaurants without making a reservation?,Yes. Searching and viewing restaurant details do not require a reservation.
