@@ -1,0 +1,30 @@
+
+
+Recommend me restaurants that serve Japanese cuisine in Seattle.
+========================================================================================
+
+Tell me more about .....
+
+========================================================================================
+
+(The date is in the past. and Phone Number is wrong.)
+Make a reservation for this restaurant for 3 people under the name "MohammadReza". Contact number: 091121112233. Date:2025-08-04 at 8pm
+
+========================================================================================
+
+2026-08-04 at 8pm, 09111112233
+
+========================================================================================
+
+(Number of guests is more than capacity.)
+
+Make a reservation for this restaurant for 300 people under the name "Jack". Contact number: 09111112233, date: 2026-08-15 at 8pm
+
+========================================================================================
+
+(Out-of-scope question)
+
+What is the capital of Iran?
+
+========================================================================================
+

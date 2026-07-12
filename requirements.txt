@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+langchain
+langgraph
+dateparser
+phonenumbers
+pillow
+qrcode
+langchain-openai
+langchain-chroma
+openpyxl
