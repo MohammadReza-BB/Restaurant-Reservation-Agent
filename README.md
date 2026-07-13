@@ -35,6 +35,15 @@ This project uses an AI agent approach to interpret user requests, select approp
   <img src="assets\system_architecture.png" width="700">
 </p>
 
+
+## Video Demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rnsWUemWVMw">
+    <img src="https://img.youtube.com/vi/rnsWUemWVMw/0.jpg" alt="Watch the full demo">
+  </a>
+</p>
+
 ## Technologies 🛠️
 
 - Python
