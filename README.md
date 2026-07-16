@@ -40,7 +40,7 @@ This project uses an AI agent approach to interpret user requests, select approp
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=rnsWUemWVMw">
-    <img src="https://img.youtube.com/vi/rnsWUemWVMw/0.jpg" alt="Watch the full demo">
+    <img src="assets\video_cover.jpg" alt="Watch the full demo">
   </a>
 </p>
 
